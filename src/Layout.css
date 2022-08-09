@@ -1,0 +1,12 @@
+.layout {
+    border: solid red;
+
+}
+
+.list {
+    border: solid yellow;
+}
+
+.list-element {
+    font-size: 2rem;
+}
